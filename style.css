@@ -96,6 +96,7 @@ button{
 button:hover{
     background-color: hsl(158, 38%, 19%);
     transition: all 0.5s;
+    cursor: pointer;
 }
 .cart{
     width: 1rem;
